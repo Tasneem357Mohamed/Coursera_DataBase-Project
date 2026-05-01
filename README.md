@@ -44,4 +44,3 @@ This project is a database design and implementation for a Coursera-like online 
 |          Omar Hassan Saied       |
 |           Ahmed Reda Abdelhameed Mohamed        |
 |      Ammar Mohamed Gabeer  |
-|  Abdallah Elsayed Abdo Elsayed       |
